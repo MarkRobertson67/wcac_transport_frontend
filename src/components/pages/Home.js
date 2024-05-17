@@ -5,7 +5,7 @@ return(
 <div>
 <br></br>
 <br></br>
-<h>Welcome to the home page</h>
+<h>Welcome to the transportation home page</h>
 </div>
 )
 }
