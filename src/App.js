@@ -5,7 +5,7 @@ import Home from './components/pages/Home';
 import About from './components/pages/About/About';
 
 // import NavBar from './components/NavBar/NavBar';
-// import Footer from `./components/Footer/Footer`;
+import Footer from './components/Footer/Footer';
 
 
 
@@ -23,7 +23,7 @@ function App() {
             </Routes>
           </div>
         </main>
-        {/* <Footer /> */}
+        <Footer />
       </Router>
     </div>
   );
