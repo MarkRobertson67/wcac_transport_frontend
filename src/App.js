@@ -1,8 +1,8 @@
-import { BrowserRouter as Router, Routes, Route } from 'react-router-dom';
 // Proprietary Software License
 // Copyright (c) 2024 Mark Robertson
 // See LICENSE.txt file for details.
 
+import { BrowserRouter as Router, Routes, Route } from 'react-router-dom';
 import './App.css';
 
 import Home from './components/pages/Home';
