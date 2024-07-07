@@ -1,3 +1,7 @@
+// Proprietary Software License
+// Copyright (c) 2024 Mark Robertson
+// See LICENSE.txt file for details.
+
 import React from 'react';
 import { Link } from 'react-router-dom';
 import './Footer.css';
@@ -46,7 +50,7 @@ function Footer() {
         </div>
       </div>
       <div className="text-center p-2 bg-secondary">
-        <span className="text-sm text-white">© 2024 <Link to="https://.netlify.app" className="text-white">WCAC Transportation App™</Link>. All Rights Reserved.</span>
+        <span className="text-sm text-white">© 2024 <Link to="https://.netlify.app" className="text-white">We Care Adult Care Timecards App™</Link>. All Rights Reserved.</span>
       </div>
     </footer>
   );
